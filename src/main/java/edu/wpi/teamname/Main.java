@@ -9,6 +9,11 @@ public class Main {
     System.out.println("Anthony");
   }
 
+  public static void anthonyBranch()
+  {
+    System.out.println("anthonyBranch");
+  }
+
   // shortcut: psvm
 
 }
