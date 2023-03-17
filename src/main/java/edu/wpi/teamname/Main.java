@@ -9,9 +9,9 @@ public class Main {
     System.out.println("Ayden");
     System.out.println("Sam");
     System.out.println("Anthony");
-    System.out.println("Andrew Simonini");
   }
 
   // shortcut: psvm
+  System.out.println("Andrew Simonini");
 
 }
