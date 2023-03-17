@@ -7,6 +7,7 @@ public class Main {
     App.launch(App.class, args);
     System.out.println("Ayden");
     System.out.println("Sam");
+    System.out.println("Anthony");
   }
 
   // shortcut: psvm
